@@ -4,7 +4,7 @@ SongtheMarket
 
 인공지능 기반 중고거래 장터 앱
 
-* 모델
+*모델
 - Okt
 - Vectorizer
 - Tokenizer
@@ -14,10 +14,10 @@ SongtheMarket
 - CNN
 - CNN-LSTM
 
-* 서버
+*서버
 - Apache
 - Django web framework
 - CentOS
 
-* 어플리케이션
+*어플리케이션
 - Android Studio
